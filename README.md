@@ -1,10 +1,10 @@
-# 👋🏻 Hello
+# 👋🏻 Hello, Welcome to my profile!
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-No that DB doesn't stand for database tho :P
+Note that DB doesn't stand for database tho :P
  
 - <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width=25 height=25> I’m currently working on Node 🚀,Deno🦕 and GraphQL⚡<br>
 - <img src="https://cdn.svgporn.com/logos/aws.svg" width=30 height=30>I’m currently learning Docker and AWS<br>
@@ -48,7 +48,7 @@ No that DB doesn't stand for database tho :P
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
+        <span><strong>VS Code</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
